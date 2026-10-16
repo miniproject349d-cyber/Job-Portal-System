@@ -2,7 +2,7 @@
 
 A web-based platform that connects job seekers with employers. Candidates can browse and apply for jobs, while employers can post openings and manage applications, all in one place.
 
-Built by a team of 5.
+Built by a team of 4.
 
 ---
 
@@ -174,4 +174,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👥 Team
 
-Built with ❤️ by a team of 5. Add your names and GitHub profiles here.
+Built with ❤️ by a team of 4. Add your names and GitHub profiles here.
