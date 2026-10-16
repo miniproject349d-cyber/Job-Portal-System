@@ -1,18 +1,177 @@
-# 💫 About Me:
-💼 Job Portal System<br><br>A web-based platform built by a team of four developers to simplify the hiring process for both job seekers and recruiters.<br><br>✨ Key Features<br>Job Seekers: Create profiles, upload resumes, search and filter jobs, apply with one click, and track application status.<br>Employers: Post job openings, manage listings, review applicants, and shortlist candidates.<br>Admin Panel: Manage users, approve or remove job posts, and monitor overall platform activity.<br>Secure Authentication: Role-based login and registration for job seekers, employers, and admins.<br>🛠️ Tech Stack<br><br>Frontend: HTML, CSS, JavaScript / React<br>Backend: Node.js / Java / Python<br>Database: MySQL / MongoDB / PostgreSQL<br><br>👥 Team<br><br>Developed collaboratively by a team of 4 members, each contributing to design, development, database, and testing.<br><br>🚀 Getting Started<br>Clone the repository<br>Install dependencies<br>Configure the database<br>Run the application
+# 💼 Job Portal System
 
+A web-based platform that connects job seekers with employers. Candidates can browse and apply for jobs, while employers can post openings and manage applications, all in one place.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enjoy_life3575) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@Jaikishan-1rh) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=miniproject349d-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=miniproject349d-cyber&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=miniproject349d-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Built by a team of 5.
 
 ---
-[![](https://komarev.com/ghpvc/?username=miniproject349d-cyber&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Demo
+
+🔗 **Live Demo:** [https://your-demo-link.com](https://your-demo-link.com)
+
+![Job Portal Screenshot](./docs/screenshot.png)
+
+---
+
+## ✨ Features
+
+**For Job Seekers**
+- Register, log in, and manage a personal profile
+- Search and filter jobs by title, location, category, and salary
+- Apply to jobs and track application status
+- Save favorite jobs for later
+
+**For Employers**
+- Create a company profile
+- Post, edit, and delete job listings
+- View and manage applicants
+- Shortlist or reject candidates
+
+**General**
+- Secure authentication and role-based access (Job Seeker / Employer / Admin)
+- Responsive design for desktop, tablet, and mobile
+- Clean icon system built with custom SVGs
+
+---
+
+## 🛠 Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Frontend | HTML5, CSS3, JavaScript |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Authentication | JWT |
+| Icons | Custom SVG icon set |
+| Version Control | Git & GitHub |
+
+> Update this table to match the technologies your team actually uses.
+
+---
+
+## 📦 Installing
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v18 or later)
+- [Git](https://git-scm.com/)
+- A running database instance (e.g., MongoDB)
+
+### Steps
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/job-portal-system.git
+
+# 2. Go to the project folder
+cd job-portal-system
+
+# 3. Install dependencies
+npm install
+
+# 4. Create your environment file
+cp .env.example .env
+# Then edit .env with your database URL and secret keys
+
+# 5. Start the development server
+npm start
+```
+
+Open **http://localhost:3000** in your browser.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow the guidelines below.
+
+### 🐛 Issues
+
+Found a bug or have an idea? Open an issue:
+
+1. Go to the **Issues** tab of this repository.
+2. Search to make sure it hasn't already been reported.
+3. Click **New Issue** and choose a template (Bug report / Feature request).
+4. Include a clear title, steps to reproduce (for bugs), expected vs. actual behavior, and screenshots if helpful.
+
+### 🔀 Pull Requests
+
+1. Fork the repository.
+2. Create a branch: `git checkout -b feature/your-feature-name`
+3. Commit your changes: `git commit -m "Add: short description"`
+4. Push the branch: `git push origin feature/your-feature-name`
+5. Open a Pull Request and describe what you changed.
+
+---
+
+### 🎨 How to Add an Icon
+
+Follow these three steps to add a new icon to the project.
+
+#### Step 1: Create the SVG
+
+1. Design your icon at **24 × 24 px** (use the same viewBox for consistency).
+2. Use a single color (`currentColor`) so it can be styled with CSS.
+3. Optimize the file (e.g., with [SVGO](https://jakearchibald.github.io/svgomg/)) and remove unnecessary attributes.
+4. Save it in `assets/icons/` using a lowercase, hyphenated name, for example `briefcase.svg`.
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+     stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="2" y="7" width="20" height="14" rx="2"/>
+  <path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/>
+</svg>
+```
+
+#### Step 2: Add the Data to the Icon Data File
+
+Open the icon data file (e.g., `data/icons.json`) and add a new entry with these fields:
+
+| Field | Description |
+|-------|-------------|
+| `name` | Unique icon name (lowercase, hyphenated) |
+| `path` | Path to the SVG file |
+| `iTog` | The icon's CSS class/tag used in HTML |
+| `link` | Reference or source link (author, license, or docs) |
+
+```json
+{
+  "name": "briefcase",
+  "path": "assets/icons/briefcase.svg",
+  "iTog": "i-briefcase",
+  "link": "https://example.com/source-or-license"
+}
+```
+
+#### Step 3: Add the Icon to the CSS
+
+Register the icon in your stylesheet (e.g., `css/icons.css`) so it can be used through its `iTog` class:
+
+```css
+.i-briefcase {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-color: currentColor;
+  -webkit-mask: url("../assets/icons/briefcase.svg") no-repeat center / contain;
+          mask: url("../assets/icons/briefcase.svg") no-repeat center / contain;
+}
+```
+
+Use it in HTML:
+
+```html
+<i class="i-briefcase"></i>
+```
+
+Finally, open a Pull Request with your new icon. 🎉
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 👥 Team
+
+Built with ❤️ by a team of 5. Add your names and GitHub profiles here.
