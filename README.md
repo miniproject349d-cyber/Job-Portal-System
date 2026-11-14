@@ -2,7 +2,7 @@
 
 A web-based platform that connects job seekers with employers. Candidates can browse and apply for jobs, while employers can post openings and manage applications, all in one place.
 
-Built by a team of 5.
+Built by a team of 4.
 
 ---
 
